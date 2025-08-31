@@ -1,0 +1,50 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "coreclr",
+      "request": "launch",
+      "name": "Debug ExemploFundamentos (net9.0)",
+      "program": "${workspaceFolder}/ExemploFundamentos/bin/Debug/net9.0/ExemploFundamentos.dll",
+      "preLaunchTask": "build ExemploFundamentos"
+    },
+    {
+      "type": "coreclr",
+      "request": "launch",
+      "name": "Debug ExemploFundamentos.Net5 (net5.0)",
+      "program": "${workspaceFolder}/ExemploFundamentos.Net5/bin/Debug/net5.0/ExemploFundamentos.Net5.dll",
+      "preLaunchTask": "build ExemploFundamentos.Net5"
+    },
+    {
+      "type": "coreclr",
+      "request": "launch",
+      "name": "Debug ExemploFundamentos.Net6 (net6.0)",
+      "program": "${workspaceFolder}/ExemploFundamentos.Net6/bin/Debug/net6.0/ExemploFundamentos.Net6.dll",
+      "preLaunchTask": "build ExemploFundamentos.Net6"
+    },
+    {
+      "type": "coreclr",
+      "request": "launch",
+      "name": "Debug another .NET project...",
+      "program": "${workspaceFolder}/${input:projectFolder}/bin/Debug/${input:framework}/${input:assembly}",
+      "preLaunchTask": "build custom"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "projectFolder",
+      "type": "promptString",
+      "description": "Enter the project folder (e.g., ExemploFundamentos.Net6)"
+    },
+    {
+      "id": "framework",
+      "type": "promptString",
+      "description": "Enter the target framework (e.g., net6.0)"
+    },
+    {
+      "id": "assembly",
+      "type": "promptString",
+      "description": "Enter the assembly file name (e.g., ExemploFundamentos.Net6.dll)"
+    }
+  ]
+}

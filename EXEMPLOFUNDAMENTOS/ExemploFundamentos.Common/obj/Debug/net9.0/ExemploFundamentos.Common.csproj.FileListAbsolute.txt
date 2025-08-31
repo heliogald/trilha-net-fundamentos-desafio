@@ -1,0 +1,11 @@
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.deps.json
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.dll
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.pdb
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.dll
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net9.0\refint\ExemploFundamentos.Common.dll
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.pdb
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Common\obj\Debug\net9.0\ref\ExemploFundamentos.Common.dll

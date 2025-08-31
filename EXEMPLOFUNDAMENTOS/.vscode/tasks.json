@@ -1,0 +1,42 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build ExemploFundamentos",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${workspaceFolder}/ExemploFundamentos/ExemploFundamentos.csproj"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "build ExemploFundamentos.Net5",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${workspaceFolder}/ExemploFundamentos.Net5/ExemploFundamentos.Net5.csproj"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "build ExemploFundamentos.Net6",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${workspaceFolder}/ExemploFundamentos.Net6/ExemploFundamentos.Net6.csproj"
+      ],
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "build custom",
+      "command": "dotnet",
+      "type": "process",
+      "args": ["build", "${workspaceFolder}/${input:projectFolder}"],
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}

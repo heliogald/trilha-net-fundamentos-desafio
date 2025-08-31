@@ -1,0 +1,14 @@
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\bin\Debug\net6.0\ExemploFundamentos.Net6.exe
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\bin\Debug\net6.0\ExemploFundamentos.Net6.deps.json
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\bin\Debug\net6.0\ExemploFundamentos.Net6.runtimeconfig.json
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\bin\Debug\net6.0\ExemploFundamentos.Net6.dll
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\bin\Debug\net6.0\ExemploFundamentos.Net6.pdb
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\obj\Debug\net6.0\ExemploFundamentos.Net6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\obj\Debug\net6.0\ExemploFundamentos.Net6.AssemblyInfoInputs.cache
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\obj\Debug\net6.0\ExemploFundamentos.Net6.AssemblyInfo.cs
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\obj\Debug\net6.0\ExemploFundamentos.Net6.csproj.CoreCompileInputs.cache
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\obj\Debug\net6.0\ExemploFundamentos.Net6.dll
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\obj\Debug\net6.0\refint\ExemploFundamentos.Net6.dll
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\obj\Debug\net6.0\ExemploFundamentos.Net6.pdb
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\obj\Debug\net6.0\ExemploFundamentos.Net6.genruntimeconfig.cache
+C:\Apps\CSHARPDIO\EXEMPLOFUNDAMENTOS\ExemploFundamentos.Net6\obj\Debug\net6.0\ref\ExemploFundamentos.Net6.dll
